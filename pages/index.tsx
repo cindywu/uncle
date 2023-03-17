@@ -1,6 +1,7 @@
 import React from 'react'
 import Iframe from 'react-iframe'
 import MuxVideo from '@mux/mux-video-react'
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -12,7 +13,7 @@ export default function Home() {
       /> */}
       <MuxVideo
         style={{ height: '100%', maxWidth: '100%' }}
-        playbackId="oNmujUAE1602hrlvxUlGTe00nJJVWRR4Tyv"
+        playbackId="oNmujUAE1602hrlvxUlGTe00nJJVWRR4Ty"
         metadata={{
           video_id: 'video-id-123456',
           video_title: 'gin-weigh-wu',
