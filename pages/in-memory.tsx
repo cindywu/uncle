@@ -15,7 +15,6 @@ export default function Home() {
         streamType="on-demand"
         controls
         autoPlay
-        muted
       />
     </div>
   )
