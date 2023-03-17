@@ -1,7 +1,6 @@
 import React from 'react'
-import Iframe from 'react-iframe'
+// import Iframe from 'react-iframe'
 import MuxVideo from '@mux/mux-video-react'
-import Link from 'next/link'
 
 export default function Home() {
   return (
